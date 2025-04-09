@@ -7,3 +7,7 @@ BUILD 1.1
 [/] ConfigSystem
 [-] wings потому что хуйня 
 [/] changelog in mainmenu
+[+] binds in cs gui
+[-] longjump
+[/] dropdown gui size in small scale
+[/] AttackAura holograms target
