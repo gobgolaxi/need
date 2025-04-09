@@ -1,4 +1,5 @@
 BUILD 1.2 small bug fix
+[+] sexaura
 [+] added saving in dropdown gui drag position
 [/] fixed drag in gui
 [/] fixed maingui crash
