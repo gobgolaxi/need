@@ -11,3 +11,4 @@ BUILD 1.1
 [-] longjump
 [/] dropdown gui size in small scale
 [/] AttackAura holograms target
+[/] irc chat fixed
