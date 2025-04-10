@@ -7,3 +7,12 @@ BUILD 1.3
 [+] saving expanded modules & categories  
 [/] redisigned discord rpc
 [+] Spider
+BUILD 1.4
+[+] KeyStrokes
+[/] watermark
+[/] sexaura
+[/] recoded scaffold
+[/] fastplace
+[+] animation in arraylist
+[+] HitSounds
+[+] ACDetecor
