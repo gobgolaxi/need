@@ -1,6 +1,9 @@
-BUILD 1.2 small bug fix
-[+] sexaura
-[+] added saving in dropdown gui drag position
-[/] fixed drag in gui
-[/] fixed maingui crash
-[/] fixed lagging in irc chat
+BUILD 1.3
+[/] Redisgined booleansettings in cs gui 
+[+] fireball attack in attack aura 
+[/] redisigned dropdown gui 
+[/] redisigned slider setting in dropdown gui 
+[/] redisigned boolean setting in dropdown gui 
+[+] saving expanded modules & categories  
+[/] redisigned discord rpc
+[+] Spider
