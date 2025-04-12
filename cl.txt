@@ -16,3 +16,9 @@ BUILD 1.4
 [+] animation in arraylist
 [+] HitSounds
 [+] ACDetecor
+BUILD 1.5
+[/] TargetHUD
+[/] Spider
+[+] airjump
+[+] cfg load command
+[+] new gui mode
